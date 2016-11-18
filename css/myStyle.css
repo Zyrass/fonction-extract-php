@@ -1,0 +1,25 @@
+/*
+ * -------------------------------------------------------------------------------------------------------------------
+ * Auteur Initial :
+ * Retouche personnel : 
+ * -------------------------------------------------------------------------------------------------------------------
+ * Date dernière modification :
+ * -------------------------------------------------------------------------------------------------------------------
+ */
+@charset "UTF-8";
+
+* {
+     box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    height: 600px;
+    background-color: #8f7a30;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
